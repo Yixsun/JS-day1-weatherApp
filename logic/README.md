@@ -21,3 +21,8 @@ radius: 方块切导角
 
 /_ Three values: flex-grow | flex-shrink | flex-basis _/
 flex: 2 2 10%; NOTE 不会
+
+API - key
+6d115e68ba4badcd1f528dd410736128
+
+https://api.openweathermap.org/data/2.5/weather?q=shanghai&appid=6d115e68ba4badcd1f528dd410736128
