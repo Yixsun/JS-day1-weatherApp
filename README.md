@@ -1,1 +1,0 @@
-# JS-day1-weatherApp
